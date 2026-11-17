@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Sungrow is a global provider of solar inverters, energy storage systems, and renewable energy solutions. Headquartered in China, the company serves residential, commercial, and utility-scale markets worldwide, offering products such as string inverters, modular inverters, and energy storage solutions. Sungrow emphasizes clean energy promotion, sustainability, and advanced manufacturing, with a presence across major energy technology sectors.
+Sungrow is a global leader in renewable energy solutions, designing and manufacturing solar inverters, energy storage systems, and power conversion equipment. The company focuses on advancing clean energy adoption worldwide, offering products for residential, commercial, and utility-scale projects, and emphasizes innovation, sustainability, and extensive global presence.
 
-**Areas:** Company · Solar · Inverters · Energy Storage · Renewable Energy
+**Areas:** Company · Renewable Energy · Solar Inverters · Energy Storage · Clean Technology
 
 ## Sungrow on APIs.io
 
@@ -89,22 +89,23 @@ Links to the company's own pages. This repository publishes no copy of their spe
 - [Website](https://sungrowpower.com/)
 - [Support](https://support.sungrowpower.com/)
 - [Security](https://www.sungrowpower.com/eu/en/security)
+- [Terms of service](https://www.sungrowpower.com/us/en/terms-of-use)
 - [Privacy policy](https://www.sungrowpower.com/us/en/privacy-policy-terms)
 
 ## API Evangelist rating
 
-**Kin Score 7.8** — minimal · rubric 0.28.0 · scored 2026-11-17
+**Kin Score 10.9** — minimal · rubric 0.27.0 · scored 2026-11-17
 
 | Facet | Score |
 |---|---|
 | Discoverability | 46.4 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 9.5 |
+| Operational transparency | 10.5 |
 | Developer ergonomics | 4.8 |
-| Access clarity | 8.5 |
+| Access clarity | 21.1 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 6.0** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -119,7 +120,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -131,7 +132,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 8.2** — Energy & Utilities
+**Regulatory alignment 11.5** — Energy & Utilities
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/sungrow/](https://apis.io/providers/sungrow/).
 
